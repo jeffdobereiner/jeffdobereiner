@@ -1,16 +1,18 @@
-## Hi there 👋
+# Jeffrey (Jeff) Dobereiner
 
-<!--
-**jeffdobereiner/jeffdobereiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Space Policy Strategist | NASA Contractor | Science Communicator | PhD in Anthropology**
 
-Here are some ideas to get you started:
+Welcome — I'm Jeff Dobereiner, a space-nerd and strategy lead supporting NASA's Space Communications and Navigation (SCaN) program. My work spans engineering strategy, technical analysis, and strategic planning for the future of space infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring a multidisciplinary background in:
+- 🚀 **Space systems**: with a specialization in communications, including a new amateur radio license (Technician-class, KD3BRE), and broadening in scope thanks to an in-progress MS at Florida Tech
+- 📡 **Science policy & communications**: writing, strategic planning, and technical storytelling
+- 🧪 **Applied scientific research**: PhD with extensive fieldwork, remote sensing, and laboratory experience
+- 🎙️ **Media production**: Emmy-nominated work for PBS, NPR, and National Geographic
+
+## 🔗 Links to Learn More
+- [LinkedIn](https://www.linkedin.com/in/jeffrey-dobereiner-phd/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=ctBO6NwAAAAJ)
+- [ORCID](https://orcid.org/0009-0008-1928-9867)
+- [IMDB](https://www.imdb.com/name/nm9349550/)
+- [Academia.edu](https://nasa.academia.edu/JeffreyDobereiner)
